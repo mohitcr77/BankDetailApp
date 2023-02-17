@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "bankdetailapp": {
+      "hosting": {
+        "BankDetailApp": [
+          "bankdetailapp"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "bankdetailapp"
+  }
+}
